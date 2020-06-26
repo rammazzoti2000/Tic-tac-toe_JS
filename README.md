@@ -76,7 +76,6 @@ This project was built using these technologies.
 ## Usage
 
 To have this app on your pc, you need to:
-* have Ruby & Ruby on Rails installed in your computer
 * [download](https://github.com/vzdrizhni/Tic-tac-toe_JS/archive/develop.zip) or clone this repo:
   - Clone with SSH:
   ```
